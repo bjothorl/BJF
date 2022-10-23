@@ -38,6 +38,6 @@ fetch("https://api.wehuntapp.com/v1/areas/4651853261570048/map/export", {
 
     // using gpx parser:
     // parser.parseGpx(gpx, (err, data) => {
-    //   console.log(data.waypoints);
+    //   fs.writeFileSync("./raudlio_download.json", JSON.stringify(data));
     // });
   });
