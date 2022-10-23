@@ -2,7 +2,7 @@ const fetch = require("node-fetch");
 const raudlien = require("./raudlio.json");
 const config = require("./config.json");
 
-let sessionId = config.kartVerketSessionId;
+let sessionId = config.norgesKartSessionId;
 
 postPoint(raudlien.features, 1);
 
