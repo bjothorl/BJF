@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^2.6.7"
+    "gpx-parse": "^0.10.4",
+    "node-fetch": "^2.6.7",
+    "xml2json": "^0.12.0"
   }
 }
