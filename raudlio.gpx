@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx version="1.1" creator="WeHunt - http://www.wehuntapp.com" xmlns:wehunt="https://app.wehuntapp.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://app.wehuntapp.com https://app.wehuntapp.com/gpx_extensions.xsd" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <author>
+      <name>Bjørn Thorlacius</name>
+    </author>
+  </metadata>
+  <wpt lat="60.257122" lon="5.500097">
+    <name>17</name>
+    <desc>Post Eivind Stadheim 2</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.270910" lon="5.508717">
+    <name>29</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.287735" lon="5.494938">
+    <name>14 / Nedre BS.</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.255592" lon="5.495950">
+    <name>Kraftstasjonen</name>
+    <type>gathering_place</type>
+  </wpt>
+  <wpt lat="60.283380" lon="5.485982">
+    <name>11A</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.275180" lon="5.515490">
+    <name>Overgang</name>
+    <desc>Må ryddes</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="60.265503" lon="5.508251">
+    <name>22 Bordellet</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.263600" lon="5.500996">
+    <name>21B ? </name>
+    <desc>Ny post ? </desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.287834" lon="5.493550">
+    <name>12 Bogastille</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.277275" lon="5.518043">
+    <name>31D</name>
+    <desc>Ca. 300 meter fra nordgrensen</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.275433" lon="5.480544">
+    <name>7A</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.276500" lon="5.506312">
+    <name>8B</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.282387" lon="5.500302">
+    <name>Rasmussposten</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.279564" lon="5.519633">
+    <name>31F</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.272507" lon="5.478358">
+    <name>6B</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.276660" lon="5.516778">
+    <name>Post</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.277290" lon="5.508664">
+    <name>Pyramiden</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="60.280018" lon="5.483176">
+    <name>8C</name>
+    <desc>Ved sti/tråkk opp/ned Sefketposten</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.266180" lon="5.466893">
+    <name>1. post fra sør</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.276703" lon="5.483882">
+    <name>Grethebu</name>
+    <desc>Grethebu</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.263360" lon="5.505310">
+    <name>21</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.281357" lon="5.485923">
+    <name>10 Sefketsteinen</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.276634" lon="5.489694">
+    <name>Nest siste benk</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="60.274353" lon="5.480298">
+    <name>Harpen</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="60.280840" lon="5.486124">
+    <name>Sefkettårnet</name>
+    <desc />
+    <type>tower</type>
+  </wpt>
+  <wpt lat="60.266785" lon="5.469168">
+    <name>Brunstgrop</name>
+    <type>other</type>
+  </wpt>
+  <wpt lat="60.262627" lon="5.499576">
+    <name>20B Maristølen</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.261270" lon="5.513042">
+    <name>23D</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.265600" lon="5.468005">
+    <name>Post</name>
+    <desc>Post sørvest</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.271110" lon="5.503421">
+    <name>25C</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.262554" lon="5.511579">
+    <name>23C</name>
+    <desc>Kun ståplass inntil videre</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.271576" lon="5.506054">
+    <name>25B</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.270550" lon="5.474924">
+    <name>4</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.278640" lon="5.511570">
+    <name>Start Inste Bøskaret</name>
+    <type>other</type>
+  </wpt>
+  <wpt lat="60.267178" lon="5.500767">
+    <name>26C</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.259884" lon="5.508400">
+    <name>Øvrig</name>
+    <desc>Gammelgammelfuruen</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="60.287250" lon="5.497000">
+    <name>13 Soleimåsen</name>
+    <type>tower</type>
+  </wpt>
+  <wpt lat="60.265198" lon="5.473374">
+    <name>Merkegranen</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="60.261246" lon="5.501989">
+    <name>20A Sefketposten</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.276295" lon="5.514783">
+    <name>31B</name>
+    <desc>Må ryddes</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.272736" lon="5.477666">
+    <name>6A</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.262802" lon="5.498131">
+    <name>20C</name>
+    <desc>
+</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.264286" lon="5.497856">
+    <name>Øvrig</name>
+    <desc>Furustolen</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="60.286366" lon="5.496200">
+    <name>15</name>
+    <desc>OBS! Det er 115 meter opp til traktorvei</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.276380" lon="5.501932">
+    <name>BJF Hytte</name>
+    <type>gathering_place</type>
+  </wpt>
+  <wpt lat="60.266320" lon="5.478570">
+    <name>Avstikker mot øst</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="60.282250" lon="5.484952">
+    <name>8E</name>
+    <desc>Alternativt post</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.272293" lon="5.475250">
+    <name>5</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.265835" lon="5.473882">
+    <name>1</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.270250" lon="5.509133">
+    <name>Haraldsplass</name>
+    <desc />
+    <type>tower</type>
+  </wpt>
+  <wpt lat="60.278774" lon="5.519416">
+    <name>31E</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.265415" lon="5.472097">
+    <name>2</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.265650" lon="5.499199">
+    <name>Øvrig</name>
+    <desc>Tråkk/sti opp/ned</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="60.268760" lon="5.509680">
+    <name>24 Gunnarpost</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.263206" lon="5.497606">
+    <name>20D</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.268375" lon="5.469225">
+    <name>Ny post ryddet 19.02.22</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.276180" lon="5.512623">
+    <name>31A</name>
+    <desc>Topp Insta Bøskaret</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.270863" lon="5.507088">
+    <name>25A</name>
+    <desc>Post 25A - Må ryddes</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.267830" lon="5.511067">
+    <name>Evenbu</name>
+    <desc />
+    <type>gathering_place</type>
+  </wpt>
+  <wpt lat="60.276610" lon="5.480781">
+    <name>7B</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.262090" lon="5.473931">
+    <name>Post</name>
+    <desc>Ny post 2022?</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.267143" lon="5.468581">
+    <name>Over brunstgropen</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.269592" lon="5.503315">
+    <name>Skanteslottet</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="60.286060" lon="5.489115">
+    <name>11C</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.260914" lon="5.507026">
+    <name>27</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.279370" lon="5.482730">
+    <name>8B</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.281670" lon="5.506939">
+    <name>Post</name>
+    <desc>Mulig post ikke nummerert</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.264690" lon="5.510445">
+    <name>23A</name>
+    <desc>Post Eivind Stadheim</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.269844" lon="5.471067">
+    <name>Post</name>
+    <desc>Sti/tråkk opp/ned</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.276367" lon="5.518334">
+    <name>31C</name>
+    <desc>Steindalsåsen</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.273285" lon="5.481555">
+    <name>Slepe</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="60.275738" lon="5.478905">
+    <name>8A</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.260246" lon="5.500429">
+    <name>19</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.264843" lon="5.474535">
+    <name>TT-Tårnet</name>
+    <desc />
+    <type>tower</type>
+  </wpt>
+  <wpt lat="60.263744" lon="5.511269">
+    <name>23B</name>
+    <desc>Ørneredet</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.269540" lon="5.474095">
+    <name>3 (Ikke i bruk)</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.288390" lon="5.491171">
+    <name>11E Grensehjørnet</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.265630" lon="5.477798">
+    <name>Sti mot nord</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="60.286470" lon="5.499983">
+    <name>16</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.265675" lon="5.468770">
+    <name>Post nedre langs sørgrense</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.260170" lon="5.507884">
+    <name>28</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.267560" lon="5.502370">
+    <name>26B</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.272920" lon="5.513454">
+    <name>30</name>
+    <desc>Sindrepost</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.267210" lon="5.503624">
+    <name>26A</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.262047" lon="5.508263">
+    <name>0</name>
+    <desc>Gammel gjengrodd post som ikke er i bruk. (21)</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.268450" lon="5.469273">
+    <name>Post</name>
+    <desc>Ny post</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.258938" lon="5.499928">
+    <name>18A</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.287690" lon="5.490590">
+    <name>11D</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.280952" lon="5.483698">
+    <name>8D</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.256554" lon="5.504932">
+    <name>Post</name>
+    <desc>Post ved drev fra nord eller bakpost</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.284912" lon="5.487678">
+    <name>11B</name>
+    <desc>Alternativt post</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.277496" lon="5.515064">
+    <name>Granfelt</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="60.279190" lon="5.485035">
+    <name>9</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.265377" lon="5.466216">
+    <name>Nordhordlandskulten 389 moh.</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="60.276280" lon="5.483604">
+    <name>Gammen</name>
+    <type>gathering_place</type>
+  </wpt>
+  <wpt lat="60.283722" lon="5.501655">
+    <name>Utedo</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="60.277832" lon="5.481405">
+    <name>Ny post ? </name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="60.259820" lon="5.497655">
+    <name>18B</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.275030" lon="5.482352">
+    <name>Stolen</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="60.280476" lon="5.518012">
+    <name>Øvrig</name>
+    <desc>Midtre drevstart</desc>
+    <type>other</type>
+  </wpt>
+  <trk>
+    <name>Raudlio</name>
+    <type>huntarea_border</type>
+    <trkseg>
+      <trkpt lat="60.261960" lon="5.496791" />
+      <trkpt lat="60.263280" lon="5.497166" />
+      <trkpt lat="60.265182" lon="5.497160" />
+      <trkpt lat="60.265858" lon="5.496836" />
+      <trkpt lat="60.266410" lon="5.493176" />
+      <trkpt lat="60.266388" lon="5.492003" />
+      <trkpt lat="60.263485" lon="5.485123" />
+      <trkpt lat="60.263550" lon="5.484638" />
+      <trkpt lat="60.263980" lon="5.481155" />
+      <trkpt lat="60.262290" lon="5.479417" />
+      <trkpt lat="60.260650" lon="5.476697" />
+      <trkpt lat="60.260796" lon="5.476173" />
+      <trkpt lat="60.260868" lon="5.475873" />
+      <trkpt lat="60.260883" lon="5.475829" />
+      <trkpt lat="60.260933" lon="5.475770" />
+      <trkpt lat="60.260967" lon="5.475708" />
+      <trkpt lat="60.261093" lon="5.475386" />
+      <trkpt lat="60.261154" lon="5.475105" />
+      <trkpt lat="60.261864" lon="5.472962" />
+      <trkpt lat="60.261310" lon="5.474640" />
+      <trkpt lat="60.261375" lon="5.474216" />
+      <trkpt lat="60.261400" lon="5.474116" />
+      <trkpt lat="60.261425" lon="5.474047" />
+      <trkpt lat="60.261517" lon="5.473711" />
+      <trkpt lat="60.261562" lon="5.473587" />
+      <trkpt lat="60.261580" lon="5.473537" />
+      <trkpt lat="60.261627" lon="5.473400" />
+      <trkpt lat="60.261677" lon="5.473222" />
+      <trkpt lat="60.261730" lon="5.473092" />
+      <trkpt lat="60.261757" lon="5.473037" />
+      <trkpt lat="60.261800" lon="5.472988" />
+      <trkpt lat="60.263054" lon="5.472821" />
+      <trkpt lat="60.261900" lon="5.472974" />
+      <trkpt lat="60.261967" lon="5.473000" />
+      <trkpt lat="60.262060" lon="5.473032" />
+      <trkpt lat="60.262120" lon="5.472992" />
+      <trkpt lat="60.262165" lon="5.472935" />
+      <trkpt lat="60.262210" lon="5.472907" />
+      <trkpt lat="60.262260" lon="5.472876" />
+      <trkpt lat="60.262300" lon="5.472826" />
+      <trkpt lat="60.262352" lon="5.472803" />
+      <trkpt lat="60.262398" lon="5.472760" />
+      <trkpt lat="60.262470" lon="5.472758" />
+      <trkpt lat="60.262505" lon="5.472728" />
+      <trkpt lat="60.262592" lon="5.472686" />
+      <trkpt lat="60.262730" lon="5.472706" />
+      <trkpt lat="60.262787" lon="5.472763" />
+      <trkpt lat="60.262810" lon="5.472772" />
+      <trkpt lat="60.262850" lon="5.472770" />
+      <trkpt lat="60.262920" lon="5.472795" />
+      <trkpt lat="60.262962" lon="5.472791" />
+      <trkpt lat="60.263123" lon="5.472878" />
+      <trkpt lat="60.263180" lon="5.472896" />
+      <trkpt lat="60.263230" lon="5.472868" />
+      <trkpt lat="60.263264" lon="5.472865" />
+      <trkpt lat="60.263317" lon="5.472888" />
+      <trkpt lat="60.263687" lon="5.472896" />
+      <trkpt lat="60.264164" lon="5.472859" />
+      <trkpt lat="60.264550" lon="5.472776" />
+      <trkpt lat="60.264744" lon="5.472756" />
+      <trkpt lat="60.265022" lon="5.472961" />
+      <trkpt lat="60.265137" lon="5.473148" />
+      <trkpt lat="60.265240" lon="5.473033" />
+      <trkpt lat="60.265263" lon="5.471972" />
+      <trkpt lat="60.265320" lon="5.469033" />
+      <trkpt lat="60.265350" lon="5.467631" />
+      <trkpt lat="60.265377" lon="5.466215" />
+      <trkpt lat="60.267784" lon="5.468090" />
+      <trkpt lat="60.272790" lon="5.475196" />
+      <trkpt lat="60.274800" lon="5.477290" />
+      <trkpt lat="60.275710" lon="5.478242" />
+      <trkpt lat="60.276314" lon="5.478739" />
+      <trkpt lat="60.277110" lon="5.479397" />
+      <trkpt lat="60.277897" lon="5.480182" />
+      <trkpt lat="60.283190" lon="5.485204" />
+      <trkpt lat="60.285930" lon="5.488791" />
+      <trkpt lat="60.287800" lon="5.490558" />
+      <trkpt lat="60.288662" lon="5.491190" />
+      <trkpt lat="60.288120" lon="5.494977" />
+      <trkpt lat="60.287777" lon="5.496385" />
+      <trkpt lat="60.287518" lon="5.497257" />
+      <trkpt lat="60.287280" lon="5.499494" />
+      <trkpt lat="60.287056" lon="5.501415" />
+      <trkpt lat="60.286920" lon="5.503335" />
+      <trkpt lat="60.285015" lon="5.502047" />
+      <trkpt lat="60.279686" lon="5.520708" />
+      <trkpt lat="60.278366" lon="5.519651" />
+      <trkpt lat="60.277885" lon="5.519374" />
+      <trkpt lat="60.277004" lon="5.518861" />
+      <trkpt lat="60.275745" lon="5.518301" />
+      <trkpt lat="60.272755" lon="5.516803" />
+      <trkpt lat="60.271750" lon="5.516941" />
+      <trkpt lat="60.268925" lon="5.515511" />
+      <trkpt lat="60.267235" lon="5.513717" />
+      <trkpt lat="60.265100" lon="5.512355" />
+      <trkpt lat="60.264313" lon="5.512288" />
+      <trkpt lat="60.262184" lon="5.514018" />
+      <trkpt lat="60.260178" lon="5.515071" />
+      <trkpt lat="60.257500" lon="5.511767" />
+      <trkpt lat="60.256058" lon="5.508243" />
+      <trkpt lat="60.254830" lon="5.504290" />
+      <trkpt lat="60.254925" lon="5.502740" />
+      <trkpt lat="60.252365" lon="5.499151" />
+      <trkpt lat="60.251940" lon="5.499371" />
+      <trkpt lat="60.251970" lon="5.498131" />
+      <trkpt lat="60.252064" lon="5.497235" />
+      <trkpt lat="60.252850" lon="5.496423" />
+      <trkpt lat="60.253304" lon="5.496231" />
+      <trkpt lat="60.253876" lon="5.495727" />
+      <trkpt lat="60.254440" lon="5.495494" />
+      <trkpt lat="60.254967" lon="5.495733" />
+      <trkpt lat="60.255524" lon="5.495414" />
+      <trkpt lat="60.256270" lon="5.496854" />
+      <trkpt lat="60.256626" lon="5.497321" />
+      <trkpt lat="60.256960" lon="5.497273" />
+      <trkpt lat="60.258840" lon="5.496876" />
+      <trkpt lat="60.259506" lon="5.496908" />
+      <trkpt lat="60.261960" lon="5.496791" />
+    </trkseg>
+  </trk>
+</gpx>

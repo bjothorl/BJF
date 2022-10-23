@@ -1,0 +1,1335 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raudlio",
+        "type": "huntarea_border"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [5.496791, 60.26196],
+          [5.497166, 60.26328],
+          [5.49716, 60.265182],
+          [5.496836, 60.265858],
+          [5.493176, 60.26641],
+          [5.492003, 60.266388],
+          [5.485123, 60.263485],
+          [5.484638, 60.26355],
+          [5.481155, 60.26398],
+          [5.479417, 60.26229],
+          [5.476697, 60.26065],
+          [5.476173, 60.260796],
+          [5.475873, 60.260868],
+          [5.475829, 60.260883],
+          [5.47577, 60.260933],
+          [5.475708, 60.260967],
+          [5.475386, 60.261093],
+          [5.475105, 60.261154],
+          [5.472962, 60.261864],
+          [5.47464, 60.26131],
+          [5.474216, 60.261375],
+          [5.474116, 60.2614],
+          [5.474047, 60.261425],
+          [5.473711, 60.261517],
+          [5.473587, 60.261562],
+          [5.473537, 60.26158],
+          [5.4734, 60.261627],
+          [5.473222, 60.261677],
+          [5.473092, 60.26173],
+          [5.473037, 60.261757],
+          [5.472988, 60.2618],
+          [5.472821, 60.263054],
+          [5.472974, 60.2619],
+          [5.473, 60.261967],
+          [5.473032, 60.26206],
+          [5.472992, 60.26212],
+          [5.472935, 60.262165],
+          [5.472907, 60.26221],
+          [5.472876, 60.26226],
+          [5.472826, 60.2623],
+          [5.472803, 60.262352],
+          [5.47276, 60.262398],
+          [5.472758, 60.26247],
+          [5.472728, 60.262505],
+          [5.472686, 60.262592],
+          [5.472706, 60.26273],
+          [5.472763, 60.262787],
+          [5.472772, 60.26281],
+          [5.47277, 60.26285],
+          [5.472795, 60.26292],
+          [5.472791, 60.262962],
+          [5.472878, 60.263123],
+          [5.472896, 60.26318],
+          [5.472868, 60.26323],
+          [5.472865, 60.263264],
+          [5.472888, 60.263317],
+          [5.472896, 60.263687],
+          [5.472859, 60.264164],
+          [5.472776, 60.26455],
+          [5.472756, 60.264744],
+          [5.472961, 60.265022],
+          [5.473148, 60.265137],
+          [5.473033, 60.26524],
+          [5.471972, 60.265263],
+          [5.469033, 60.26532],
+          [5.467631, 60.26535],
+          [5.466215, 60.265377],
+          [5.46809, 60.267784],
+          [5.475196, 60.27279],
+          [5.47729, 60.2748],
+          [5.478242, 60.27571],
+          [5.478739, 60.276314],
+          [5.479397, 60.27711],
+          [5.480182, 60.277897],
+          [5.485204, 60.28319],
+          [5.488791, 60.28593],
+          [5.490558, 60.2878],
+          [5.49119, 60.288662],
+          [5.494977, 60.28812],
+          [5.496385, 60.287777],
+          [5.497257, 60.287518],
+          [5.499494, 60.28728],
+          [5.501415, 60.287056],
+          [5.503335, 60.28692],
+          [5.502047, 60.285015],
+          [5.520708, 60.279686],
+          [5.519651, 60.278366],
+          [5.519374, 60.277885],
+          [5.518861, 60.277004],
+          [5.518301, 60.275745],
+          [5.516803, 60.272755],
+          [5.516941, 60.27175],
+          [5.515511, 60.268925],
+          [5.513717, 60.267235],
+          [5.512355, 60.2651],
+          [5.512288, 60.264313],
+          [5.514018, 60.262184],
+          [5.515071, 60.260178],
+          [5.511767, 60.2575],
+          [5.508243, 60.256058],
+          [5.50429, 60.25483],
+          [5.50274, 60.254925],
+          [5.499151, 60.252365],
+          [5.499371, 60.25194],
+          [5.498131, 60.25197],
+          [5.497235, 60.252064],
+          [5.496423, 60.25285],
+          [5.496231, 60.253304],
+          [5.495727, 60.253876],
+          [5.495494, 60.25444],
+          [5.495733, 60.254967],
+          [5.495414, 60.255524],
+          [5.496854, 60.25627],
+          [5.497321, 60.256626],
+          [5.497273, 60.25696],
+          [5.496876, 60.25884],
+          [5.496908, 60.259506],
+          [5.496791, 60.26196]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "17",
+        "desc": "Post Eivind Stadheim 2",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.500097, 60.257122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "29",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.508717, 60.27091]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "14 / Nedre BS.",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.494938, 60.287735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kraftstasjonen",
+        "type": "gathering_place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.49595, 60.255592]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "11A",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.485982, 60.28338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Overgang",
+        "desc": "Må ryddes",
+        "type": "other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.51549, 60.27518]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "22 Bordellet",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.508251, 60.265503]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "21B ? ",
+        "desc": "Ny post ? ",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.500996, 60.2636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "12 Bogastille",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.49355, 60.287834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "31D",
+        "desc": "Ca. 300 meter fra nordgrensen",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.518043, 60.277275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "7A",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.480544, 60.275433]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "8B",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.506312, 60.2765]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rasmussposten",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.500302, 60.282387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "31F",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.519633, 60.279564]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "6B",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.478358, 60.272507]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Post",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.516778, 60.27666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pyramiden",
+        "desc": "",
+        "type": "other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.508664, 60.27729]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "8C",
+        "desc": "Ved sti/tråkk opp/ned Sefketposten",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.483176, 60.280018]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1. post fra sør",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.466893, 60.26618]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grethebu",
+        "desc": "Grethebu",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.483882, 60.276703]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "21",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.50531, 60.26336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "10 Sefketsteinen",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.485923, 60.281357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nest siste benk",
+        "desc": "",
+        "type": "other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.489694, 60.276634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harpen",
+        "desc": "",
+        "type": "other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.480298, 60.274353]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sefkettårnet",
+        "desc": "",
+        "type": "tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.486124, 60.28084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunstgrop",
+        "type": "other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.469168, 60.266785]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "20B Maristølen",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.499576, 60.262627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "23D",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.513042, 60.26127]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Post",
+        "desc": "Post sørvest",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.468005, 60.2656]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "25C",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.503421, 60.27111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "23C",
+        "desc": "Kun ståplass inntil videre",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.511579, 60.262554]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "25B",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.506054, 60.271576]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.474924, 60.27055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Start Inste Bøskaret",
+        "type": "other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.51157, 60.27864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "26C",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.500767, 60.267178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Øvrig",
+        "desc": "Gammelgammelfuruen",
+        "type": "other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.5084, 60.259884]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "13 Soleimåsen",
+        "type": "tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.497, 60.28725]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merkegranen",
+        "desc": "",
+        "type": "other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.473374, 60.265198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "20A Sefketposten",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.501989, 60.261246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "31B",
+        "desc": "Må ryddes",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.514783, 60.276295]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "6A",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.477666, 60.272736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "20C",
+        "desc": "\n",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.498131, 60.262802]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Øvrig",
+        "desc": "Furustolen",
+        "type": "other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.497856, 60.264286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "15",
+        "desc": "OBS! Det er 115 meter opp til traktorvei",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4962, 60.286366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BJF Hytte",
+        "type": "gathering_place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.501932, 60.27638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avstikker mot øst",
+        "desc": "",
+        "type": "other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.47857, 60.26632]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "8E",
+        "desc": "Alternativt post",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.484952, 60.28225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.47525, 60.272293]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.473882, 60.265835]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haraldsplass",
+        "desc": "",
+        "type": "tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.509133, 60.27025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "31E",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.519416, 60.278774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.472097, 60.265415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Øvrig",
+        "desc": "Tråkk/sti opp/ned",
+        "type": "other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.499199, 60.26565]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "24 Gunnarpost",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.50968, 60.26876]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "20D",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.497606, 60.263206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ny post ryddet 19.02.22",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.469225, 60.268375]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "31A",
+        "desc": "Topp Insta Bøskaret",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.512623, 60.27618]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "25A",
+        "desc": "Post 25A - Må ryddes",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.507088, 60.270863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tårn på vogn",
+        "desc": "",
+        "type": "tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.537907, 52.8333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Evenbu",
+        "desc": "",
+        "type": "gathering_place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.511067, 60.26783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "7B",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.480781, 60.27661]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Post",
+        "desc": "Ny post 2022?",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.473931, 60.26209]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Over brunstgropen",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.468581, 60.267143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skanteslottet",
+        "desc": "",
+        "type": "other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.503315, 60.269592]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "11C",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.489115, 60.28606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "27",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.507026, 60.260914]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "8B",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.48273, 60.27937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Post",
+        "desc": "Mulig post ikke nummerert",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.506939, 60.28167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "23A",
+        "desc": "Post Eivind Stadheim",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.510445, 60.26469]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Post",
+        "desc": "Sti/tråkk opp/ned",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.471067, 60.269844]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "31C",
+        "desc": "Steindalsåsen",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.518334, 60.276367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slepe",
+        "desc": "",
+        "type": "other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.481555, 60.273285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "8A",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.478905, 60.275738]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "19",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.500429, 60.260246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TT-Tårnet",
+        "desc": "",
+        "type": "tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.474535, 60.264843]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "23B",
+        "desc": "Ørneredet",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.511269, 60.263744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3 (Ikke i bruk)",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.474095, 60.26954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "11E Grensehjørnet",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.491171, 60.28839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sti mot nord",
+        "desc": "",
+        "type": "other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.477798, 60.26563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "16",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.499983, 60.28647]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Post nedre langs sørgrense",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.46877, 60.265675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "28",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.507884, 60.26017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "26B",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.50237, 60.26756]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "30",
+        "desc": "Sindrepost",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.513454, 60.27292]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "26A",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.503624, 60.26721]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "0",
+        "desc": "Gammel gjengrodd post som ikke er i bruk. (21)",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.508263, 60.262047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Post",
+        "desc": "Ny post",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.469273, 60.26845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "18A",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.499928, 60.258938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "11D",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.49059, 60.28769]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "8D",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.483698, 60.280952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Post",
+        "desc": "Post ved drev fra nord eller bakpost",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.504932, 60.256554]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "11B",
+        "desc": "Alternativt post",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.487678, 60.284912]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Granfelt",
+        "desc": "",
+        "type": "other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.515064, 60.277496]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "9",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.485035, 60.27919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nordhordlandskulten 389 moh.",
+        "desc": "",
+        "type": "other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.466216, 60.265377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gammen",
+        "type": "gathering_place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.483604, 60.27628]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Utedo",
+        "desc": "",
+        "type": "other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.501655, 60.283722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ny post ? ",
+        "desc": "",
+        "type": "other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.481405, 60.277832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "18B",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.497655, 60.25982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stolen",
+        "desc": "",
+        "type": "pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.482352, 60.27503]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Øvrig",
+        "desc": "Midtre drevstart",
+        "type": "other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.518012, 60.280476]
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "d": {
+    "__type": "Cartomatic.Utils.OpsIO.ServiceOutput",
+    "total": 0,
+    "records": null,
+    "success": true,
+    "exception": null,
+    "sessionExpired": false,
+    "exceptions": [],
+    "data": [
+      {
+        "key": "wkt",
+        "value": "POINT(-35343.9333844113 6720797.71463401)"
+      }
+    ]
+  }
+}
