@@ -2,7 +2,7 @@ const fetch = require("node-fetch");
 const raudlien = require("./raudlio.json");
 const config = require("./config.json");
 
-let sessionId = config.sessionId;
+let sessionId = config.kartVerketSessionId;
 
 postLineString(raudlien.features[0]);
 
