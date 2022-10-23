@@ -3,10 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "name": "Raudlio",
-        "type": "huntarea_border"
-      },
+      "properties": { "name": "Raudlio" },
       "geometry": {
         "type": "LineString",
         "coordinates": [

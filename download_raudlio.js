@@ -1,7 +1,8 @@
 const fetch = require("node-fetch");
 const fs = require("fs");
-var parser = require("xml2json");
-// const parser = require("gpx-parse");
+const toGeoJson = require("togeojson");
+const DOMParser = require("xmldom").DOMParser;
+
 const config = require("./config.json");
 
 fetch("https://api.wehuntapp.com/v1/areas/4651853261570048/map/export", {
@@ -30,14 +31,9 @@ fetch("https://api.wehuntapp.com/v1/areas/4651853261570048/map/export", {
       })
   )
   .then(() => {
-    const gpx = fs.readFileSync("./raudlio_download.gpx");
-
-    // using xml parser
-    const json = parser.toJson(gpx);
-    fs.writeFileSync("./raudlio_download.json", json);
-
-    // using gpx parser:
-    // parser.parseGpx(gpx, (err, data) => {
-    //   fs.writeFileSync("./raudlio_download.json", JSON.stringify(data));
-    // });
+    var gpx = new DOMParser().parseFromString(
+      fs.readFileSync("raudlio_download.gpx", "utf8")
+    );
+    const json = toGeoJson.gpx(gpx);
+    fs.writeFileSync("./raudlio_download.json", JSON.stringify(json));
   });
